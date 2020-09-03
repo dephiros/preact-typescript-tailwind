@@ -1,0 +1,64 @@
+{
+  "private": true,
+  "name": "lyanvoyages-v2",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "preact build",
+    "serve": "sirv build --port 7070 --cors --single",
+    "dev": "preact watch --port 7070 --refresh",
+    "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
+    "test": "jest ./tests"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{css,md,scss,json,toml,yaml}": "prettier --write",
+    "./src/**/*.{js,jsx,ts,tsx}": [
+      "eslint --fix",
+      "eslint"
+    ]
+  },
+  "eslintIgnore": [
+    "build/*"
+  ],
+  "dependencies": {
+    "@editorjs/editorjs": "^2.18.0",
+    "@editorjs/header": "^2.5.0",
+    "@tailwindcss/ui": "^0.5.0",
+    "@tailwindui/react": "^0.1.1",
+    "preact": "^10.4.8",
+    "preact-jsx-chai": "^3.0.0",
+    "preact-markup": "^2.0.0",
+    "preact-render-to-string": "^5.1.4",
+    "preact-router": "^3.2.1",
+    "tailwindcss": "^1.7.6"
+  },
+  "devDependencies": {
+    "@teamsupercell/typings-for-css-modules-loader": "^2.3.0",
+    "@types/enzyme": "^3.10.5",
+    "@types/jest": "^26.0.12",
+    "@types/webpack-env": "^1.15.2",
+    "@typescript-eslint/eslint-plugin": "^4.0.1",
+    "@typescript-eslint/parser": "^4.0.1",
+    "css-loader": "^4.2.2",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-preact-pure": "^2.2.0",
+    "eslint": "^7.8.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.1.0",
+    "husky": "^4.2.5",
+    "jest": "^26.4.2",
+    "jest-preset-preact": "^4.0.2",
+    "lint-staged": "^10.2.13",
+    "preact-cli": "^3.0.1",
+    "prettier": "^2.1.1",
+    "sirv-cli": "^1.0.6",
+    "typescript": "^4.0.2"
+  }
+}

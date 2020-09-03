@@ -1,0 +1,1122 @@
+[
+  {
+    "timestamp": 1597674841232,
+    "files": [
+      {
+        "filename": "ssr-bundle.0299a.css",
+        "previous": 131258,
+        "size": 0,
+        "diff": -131258
+      },
+      {
+        "filename": "ssr-bundle.js",
+        "previous": 7400,
+        "size": 0,
+        "diff": -7400
+      },
+      {
+        "filename": "bundle.bb97f.css",
+        "previous": 0,
+        "size": 124098,
+        "diff": 124098
+      },
+      {
+        "filename": "bundle.*****.esm.js",
+        "previous": 0,
+        "size": 11057,
+        "diff": 11057
+      },
+      {
+        "filename": "polyfills.*****.esm.js",
+        "previous": 0,
+        "size": 2015,
+        "diff": 2015
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.e27f3.css",
+        "previous": 0,
+        "size": 74,
+        "diff": 74
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 293,
+        "diff": 293
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.9c5e4.css",
+        "previous": 0,
+        "size": 65,
+        "diff": 65
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 1130,
+        "diff": 1130
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.5dda8.css",
+        "previous": 0,
+        "size": 77,
+        "diff": 77
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 1086,
+        "diff": 1086
+      },
+      { "filename": "sw.js", "previous": 0, "size": 8470, "diff": 8470 },
+      { "filename": "sw-esm.js", "previous": 0, "size": 8473, "diff": 8473 },
+      {
+        "filename": "bundle.4dfbb.js",
+        "previous": 0,
+        "size": 11024,
+        "diff": 11024
+      },
+      {
+        "filename": "polyfills.694cb.js",
+        "previous": 0,
+        "size": 2013,
+        "diff": 2013
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.ff5ec.js",
+        "previous": 0,
+        "size": 296,
+        "diff": 296
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.fddd2.js",
+        "previous": 0,
+        "size": 1126,
+        "diff": 1126
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.f4fa6.js",
+        "previous": 0,
+        "size": 1093,
+        "diff": 1093
+      }
+    ]
+  },
+  {
+    "timestamp": 1597674824472,
+    "files": [
+      {
+        "filename": "bundle.bb97f.css",
+        "previous": 124098,
+        "size": 0,
+        "diff": -124098
+      },
+      {
+        "filename": "bundle.*****.esm.js",
+        "previous": 11057,
+        "size": 0,
+        "diff": -11057
+      },
+      {
+        "filename": "polyfills.*****.esm.js",
+        "previous": 2015,
+        "size": 0,
+        "diff": -2015
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.e27f3.css",
+        "previous": 74,
+        "size": 0,
+        "diff": -74
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.*****.esm.js",
+        "previous": 293,
+        "size": 0,
+        "diff": -293
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.9c5e4.css",
+        "previous": 65,
+        "size": 0,
+        "diff": -65
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.*****.esm.js",
+        "previous": 1130,
+        "size": 0,
+        "diff": -1130
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.5dda8.css",
+        "previous": 77,
+        "size": 0,
+        "diff": -77
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.*****.esm.js",
+        "previous": 1086,
+        "size": 0,
+        "diff": -1086
+      },
+      { "filename": "sw-esm.js", "previous": 8473, "size": 0, "diff": -8473 },
+      { "filename": "sw.js", "previous": 8470, "size": 0, "diff": -8470 },
+      {
+        "filename": "bundle.4dfbb.js",
+        "previous": 11024,
+        "size": 0,
+        "diff": -11024
+      },
+      {
+        "filename": "polyfills.694cb.js",
+        "previous": 2013,
+        "size": 0,
+        "diff": -2013
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.ff5ec.js",
+        "previous": 296,
+        "size": 0,
+        "diff": -296
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.fddd2.js",
+        "previous": 1126,
+        "size": 0,
+        "diff": -1126
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.f4fa6.js",
+        "previous": 1093,
+        "size": 0,
+        "diff": -1093
+      },
+      {
+        "filename": "ssr-bundle.0299a.css",
+        "previous": 0,
+        "size": 131258,
+        "diff": 131258
+      },
+      { "filename": "ssr-bundle.js", "previous": 0, "size": 7400, "diff": 7400 }
+    ]
+  },
+  {
+    "timestamp": 1597674670053,
+    "files": [
+      {
+        "filename": "ssr-bundle.0299a.css",
+        "previous": 131258,
+        "size": 0,
+        "diff": -131258
+      },
+      {
+        "filename": "ssr-bundle.js",
+        "previous": 7400,
+        "size": 0,
+        "diff": -7400
+      },
+      {
+        "filename": "bundle.bb97f.css",
+        "previous": 0,
+        "size": 124098,
+        "diff": 124098
+      },
+      {
+        "filename": "bundle.*****.esm.js",
+        "previous": 0,
+        "size": 11057,
+        "diff": 11057
+      },
+      {
+        "filename": "polyfills.*****.esm.js",
+        "previous": 0,
+        "size": 2015,
+        "diff": 2015
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.e27f3.css",
+        "previous": 0,
+        "size": 74,
+        "diff": 74
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 293,
+        "diff": 293
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.9c5e4.css",
+        "previous": 0,
+        "size": 65,
+        "diff": 65
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 1130,
+        "diff": 1130
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.5dda8.css",
+        "previous": 0,
+        "size": 77,
+        "diff": 77
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 1086,
+        "diff": 1086
+      },
+      { "filename": "sw-esm.js", "previous": 0, "size": 8473, "diff": 8473 },
+      { "filename": "sw.js", "previous": 0, "size": 8470, "diff": 8470 },
+      {
+        "filename": "bundle.4dfbb.js",
+        "previous": 0,
+        "size": 11024,
+        "diff": 11024
+      },
+      {
+        "filename": "polyfills.694cb.js",
+        "previous": 0,
+        "size": 2013,
+        "diff": 2013
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.ff5ec.js",
+        "previous": 0,
+        "size": 296,
+        "diff": 296
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.fddd2.js",
+        "previous": 0,
+        "size": 1126,
+        "diff": 1126
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.f4fa6.js",
+        "previous": 0,
+        "size": 1093,
+        "diff": 1093
+      }
+    ]
+  },
+  {
+    "timestamp": 1597674598375,
+    "files": [
+      {
+        "filename": "bundle.34fd2.css",
+        "previous": 124407,
+        "size": 0,
+        "diff": -124407
+      },
+      {
+        "filename": "bundle.*****.esm.js",
+        "previous": 8438,
+        "size": 0,
+        "diff": -8438
+      },
+      {
+        "filename": "polyfills.*****.esm.js",
+        "previous": 2015,
+        "size": 0,
+        "diff": -2015
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.e27f3.css",
+        "previous": 74,
+        "size": 0,
+        "diff": -74
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.*****.esm.js",
+        "previous": 293,
+        "size": 0,
+        "diff": -293
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.9c5e4.css",
+        "previous": 65,
+        "size": 0,
+        "diff": -65
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.*****.esm.js",
+        "previous": 326,
+        "size": 0,
+        "diff": -326
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.5dda8.css",
+        "previous": 77,
+        "size": 0,
+        "diff": -77
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.*****.esm.js",
+        "previous": 1089,
+        "size": 0,
+        "diff": -1089
+      },
+      { "filename": "sw.js", "previous": 8470, "size": 0, "diff": -8470 },
+      { "filename": "sw-esm.js", "previous": 8473, "size": 0, "diff": -8473 },
+      {
+        "filename": "bundle.1dbd1.js",
+        "previous": 8397,
+        "size": 0,
+        "diff": -8397
+      },
+      {
+        "filename": "polyfills.694cb.js",
+        "previous": 2013,
+        "size": 0,
+        "diff": -2013
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.ff5ec.js",
+        "previous": 296,
+        "size": 0,
+        "diff": -296
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.1d6e6.js",
+        "previous": 329,
+        "size": 0,
+        "diff": -329
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.d5ffa.js",
+        "previous": 1094,
+        "size": 0,
+        "diff": -1094
+      },
+      {
+        "filename": "ssr-bundle.0299a.css",
+        "previous": 0,
+        "size": 131258,
+        "diff": 131258
+      },
+      { "filename": "ssr-bundle.js", "previous": 0, "size": 7400, "diff": 7400 }
+    ]
+  },
+  {
+    "timestamp": 1597422099776,
+    "files": [
+      {
+        "filename": "ssr-bundle.a0978.css",
+        "previous": 131557,
+        "size": 0,
+        "diff": -131557
+      },
+      {
+        "filename": "ssr-bundle.js",
+        "previous": 4227,
+        "size": 0,
+        "diff": -4227
+      },
+      {
+        "filename": "bundle.34fd2.css",
+        "previous": 0,
+        "size": 124407,
+        "diff": 124407
+      },
+      {
+        "filename": "bundle.*****.esm.js",
+        "previous": 0,
+        "size": 8438,
+        "diff": 8438
+      },
+      {
+        "filename": "polyfills.*****.esm.js",
+        "previous": 0,
+        "size": 2015,
+        "diff": 2015
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.e27f3.css",
+        "previous": 0,
+        "size": 74,
+        "diff": 74
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 293,
+        "diff": 293
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.9c5e4.css",
+        "previous": 0,
+        "size": 65,
+        "diff": 65
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 326,
+        "diff": 326
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.5dda8.css",
+        "previous": 0,
+        "size": 77,
+        "diff": 77
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 1089,
+        "diff": 1089
+      },
+      { "filename": "sw.js", "previous": 0, "size": 8470, "diff": 8470 },
+      { "filename": "sw-esm.js", "previous": 0, "size": 8473, "diff": 8473 },
+      {
+        "filename": "bundle.1dbd1.js",
+        "previous": 0,
+        "size": 8397,
+        "diff": 8397
+      },
+      {
+        "filename": "polyfills.694cb.js",
+        "previous": 0,
+        "size": 2013,
+        "diff": 2013
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.ff5ec.js",
+        "previous": 0,
+        "size": 296,
+        "diff": 296
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.1d6e6.js",
+        "previous": 0,
+        "size": 329,
+        "diff": 329
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.d5ffa.js",
+        "previous": 0,
+        "size": 1094,
+        "diff": 1094
+      }
+    ]
+  },
+  {
+    "timestamp": 1597422081756,
+    "files": [
+      {
+        "filename": "bundle.a6df7.css",
+        "previous": 476,
+        "size": 0,
+        "diff": -476
+      },
+      {
+        "filename": "bundle.*****.esm.js",
+        "previous": 8441,
+        "size": 0,
+        "diff": -8441
+      },
+      {
+        "filename": "polyfills.*****.esm.js",
+        "previous": 2015,
+        "size": 0,
+        "diff": -2015
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.e6c71.css",
+        "previous": 74,
+        "size": 0,
+        "diff": -74
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.*****.esm.js",
+        "previous": 294,
+        "size": 0,
+        "diff": -294
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.c3378.css",
+        "previous": 65,
+        "size": 0,
+        "diff": -65
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.*****.esm.js",
+        "previous": 327,
+        "size": 0,
+        "diff": -327
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.62c75.css",
+        "previous": 77,
+        "size": 0,
+        "diff": -77
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.*****.esm.js",
+        "previous": 1089,
+        "size": 0,
+        "diff": -1089
+      },
+      { "filename": "sw-esm.js", "previous": 8473, "size": 0, "diff": -8473 },
+      { "filename": "sw.js", "previous": 8470, "size": 0, "diff": -8470 },
+      {
+        "filename": "bundle.ba75b.js",
+        "previous": 8399,
+        "size": 0,
+        "diff": -8399
+      },
+      {
+        "filename": "polyfills.694cb.js",
+        "previous": 2013,
+        "size": 0,
+        "diff": -2013
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.0557b.js",
+        "previous": 297,
+        "size": 0,
+        "diff": -297
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.287c0.js",
+        "previous": 330,
+        "size": 0,
+        "diff": -330
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.80bd0.js",
+        "previous": 1095,
+        "size": 0,
+        "diff": -1095
+      },
+      {
+        "filename": "ssr-bundle.a0978.css",
+        "previous": 0,
+        "size": 131557,
+        "diff": 131557
+      },
+      { "filename": "ssr-bundle.js", "previous": 0, "size": 4227, "diff": 4227 }
+    ]
+  },
+  {
+    "timestamp": 1597422066260,
+    "files": [
+      {
+        "filename": "ssr-bundle.e7416.css",
+        "previous": 633,
+        "size": 0,
+        "diff": -633
+      },
+      {
+        "filename": "ssr-bundle.js",
+        "previous": 4227,
+        "size": 0,
+        "diff": -4227
+      },
+      {
+        "filename": "bundle.a6df7.css",
+        "previous": 0,
+        "size": 476,
+        "diff": 476
+      },
+      {
+        "filename": "bundle.*****.esm.js",
+        "previous": 0,
+        "size": 8441,
+        "diff": 8441
+      },
+      {
+        "filename": "polyfills.*****.esm.js",
+        "previous": 0,
+        "size": 2015,
+        "diff": 2015
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.e6c71.css",
+        "previous": 0,
+        "size": 74,
+        "diff": 74
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 294,
+        "diff": 294
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.c3378.css",
+        "previous": 0,
+        "size": 65,
+        "diff": 65
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 327,
+        "diff": 327
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.62c75.css",
+        "previous": 0,
+        "size": 77,
+        "diff": 77
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 1089,
+        "diff": 1089
+      },
+      { "filename": "sw-esm.js", "previous": 0, "size": 8473, "diff": 8473 },
+      { "filename": "sw.js", "previous": 0, "size": 8470, "diff": 8470 },
+      {
+        "filename": "bundle.ba75b.js",
+        "previous": 0,
+        "size": 8399,
+        "diff": 8399
+      },
+      {
+        "filename": "polyfills.694cb.js",
+        "previous": 0,
+        "size": 2013,
+        "diff": 2013
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.0557b.js",
+        "previous": 0,
+        "size": 297,
+        "diff": 297
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.287c0.js",
+        "previous": 0,
+        "size": 330,
+        "diff": 330
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.80bd0.js",
+        "previous": 0,
+        "size": 1095,
+        "diff": 1095
+      }
+    ]
+  },
+  {
+    "timestamp": 1597422058160,
+    "files": [
+      {
+        "filename": "bundle.a6df7.css",
+        "previous": 476,
+        "size": 0,
+        "diff": -476
+      },
+      {
+        "filename": "bundle.*****.esm.js",
+        "previous": 8441,
+        "size": 0,
+        "diff": -8441
+      },
+      {
+        "filename": "polyfills.*****.esm.js",
+        "previous": 2015,
+        "size": 0,
+        "diff": -2015
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.e6c71.css",
+        "previous": 74,
+        "size": 0,
+        "diff": -74
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.*****.esm.js",
+        "previous": 294,
+        "size": 0,
+        "diff": -294
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.c3378.css",
+        "previous": 65,
+        "size": 0,
+        "diff": -65
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.*****.esm.js",
+        "previous": 327,
+        "size": 0,
+        "diff": -327
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.62c75.css",
+        "previous": 77,
+        "size": 0,
+        "diff": -77
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.*****.esm.js",
+        "previous": 1089,
+        "size": 0,
+        "diff": -1089
+      },
+      { "filename": "sw-esm.js", "previous": 8473, "size": 0, "diff": -8473 },
+      { "filename": "sw.js", "previous": 8470, "size": 0, "diff": -8470 },
+      {
+        "filename": "bundle.ba75b.js",
+        "previous": 8399,
+        "size": 0,
+        "diff": -8399
+      },
+      {
+        "filename": "polyfills.694cb.js",
+        "previous": 2013,
+        "size": 0,
+        "diff": -2013
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.0557b.js",
+        "previous": 297,
+        "size": 0,
+        "diff": -297
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.287c0.js",
+        "previous": 330,
+        "size": 0,
+        "diff": -330
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.80bd0.js",
+        "previous": 1095,
+        "size": 0,
+        "diff": -1095
+      },
+      {
+        "filename": "ssr-bundle.e7416.css",
+        "previous": 0,
+        "size": 633,
+        "diff": 633
+      },
+      { "filename": "ssr-bundle.js", "previous": 0, "size": 4227, "diff": 4227 }
+    ]
+  },
+  {
+    "timestamp": 1597421962893,
+    "files": [
+      {
+        "filename": "ssr-bundle.e7416.css",
+        "previous": 633,
+        "size": 0,
+        "diff": -633
+      },
+      {
+        "filename": "ssr-bundle.js",
+        "previous": 4227,
+        "size": 0,
+        "diff": -4227
+      },
+      {
+        "filename": "bundle.a6df7.css",
+        "previous": 0,
+        "size": 476,
+        "diff": 476
+      },
+      {
+        "filename": "bundle.*****.esm.js",
+        "previous": 0,
+        "size": 8441,
+        "diff": 8441
+      },
+      {
+        "filename": "polyfills.*****.esm.js",
+        "previous": 0,
+        "size": 2015,
+        "diff": 2015
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.e6c71.css",
+        "previous": 0,
+        "size": 74,
+        "diff": 74
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 294,
+        "diff": 294
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.c3378.css",
+        "previous": 0,
+        "size": 65,
+        "diff": 65
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 327,
+        "diff": 327
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.62c75.css",
+        "previous": 0,
+        "size": 77,
+        "diff": 77
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 1089,
+        "diff": 1089
+      },
+      { "filename": "sw-esm.js", "previous": 0, "size": 8473, "diff": 8473 },
+      { "filename": "sw.js", "previous": 0, "size": 8470, "diff": 8470 },
+      {
+        "filename": "bundle.ba75b.js",
+        "previous": 0,
+        "size": 8399,
+        "diff": 8399
+      },
+      {
+        "filename": "polyfills.694cb.js",
+        "previous": 0,
+        "size": 2013,
+        "diff": 2013
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.0557b.js",
+        "previous": 0,
+        "size": 297,
+        "diff": 297
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.287c0.js",
+        "previous": 0,
+        "size": 330,
+        "diff": 330
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.80bd0.js",
+        "previous": 0,
+        "size": 1095,
+        "diff": 1095
+      }
+    ]
+  },
+  {
+    "timestamp": 1597421953871,
+    "files": [
+      {
+        "filename": "bundle.7e56a.css",
+        "previous": 445,
+        "size": 0,
+        "diff": -445
+      },
+      {
+        "filename": "bundle.*****.esm.js",
+        "previous": 8442,
+        "size": 0,
+        "diff": -8442
+      },
+      {
+        "filename": "polyfills.*****.esm.js",
+        "previous": 2015,
+        "size": 0,
+        "diff": -2015
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.e6c71.css",
+        "previous": 74,
+        "size": 0,
+        "diff": -74
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.*****.esm.js",
+        "previous": 281,
+        "size": 0,
+        "diff": -281
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.c3378.css",
+        "previous": 65,
+        "size": 0,
+        "diff": -65
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.*****.esm.js",
+        "previous": 327,
+        "size": 0,
+        "diff": -327
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.62c75.css",
+        "previous": 77,
+        "size": 0,
+        "diff": -77
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.*****.esm.js",
+        "previous": 1089,
+        "size": 0,
+        "diff": -1089
+      },
+      { "filename": "sw-esm.js", "previous": 8473, "size": 0, "diff": -8473 },
+      { "filename": "sw.js", "previous": 8470, "size": 0, "diff": -8470 },
+      {
+        "filename": "bundle.ca036.js",
+        "previous": 8397,
+        "size": 0,
+        "diff": -8397
+      },
+      {
+        "filename": "polyfills.694cb.js",
+        "previous": 2013,
+        "size": 0,
+        "diff": -2013
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.d60a2.js",
+        "previous": 283,
+        "size": 0,
+        "diff": -283
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.287c0.js",
+        "previous": 330,
+        "size": 0,
+        "diff": -330
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.80bd0.js",
+        "previous": 1095,
+        "size": 0,
+        "diff": -1095
+      },
+      {
+        "filename": "ssr-bundle.e7416.css",
+        "previous": 0,
+        "size": 633,
+        "diff": 633
+      },
+      { "filename": "ssr-bundle.js", "previous": 0, "size": 4227, "diff": 4227 }
+    ]
+  },
+  {
+    "timestamp": 1597421420463,
+    "files": [
+      {
+        "filename": "ssr-bundle.d408c.css",
+        "previous": 602,
+        "size": 0,
+        "diff": -602
+      },
+      {
+        "filename": "ssr-bundle.js",
+        "previous": 4208,
+        "size": 0,
+        "diff": -4208
+      },
+      {
+        "filename": "bundle.7e56a.css",
+        "previous": 0,
+        "size": 445,
+        "diff": 445
+      },
+      {
+        "filename": "bundle.*****.esm.js",
+        "previous": 0,
+        "size": 8442,
+        "diff": 8442
+      },
+      {
+        "filename": "polyfills.*****.esm.js",
+        "previous": 0,
+        "size": 2015,
+        "diff": 2015
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.e6c71.css",
+        "previous": 0,
+        "size": 74,
+        "diff": 74
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 281,
+        "diff": 281
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.c3378.css",
+        "previous": 0,
+        "size": 65,
+        "diff": 65
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 327,
+        "diff": 327
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.62c75.css",
+        "previous": 0,
+        "size": 77,
+        "diff": 77
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.*****.esm.js",
+        "previous": 0,
+        "size": 1089,
+        "diff": 1089
+      },
+      { "filename": "sw-esm.js", "previous": 0, "size": 8473, "diff": 8473 },
+      { "filename": "sw.js", "previous": 0, "size": 8470, "diff": 8470 },
+      {
+        "filename": "bundle.ca036.js",
+        "previous": 0,
+        "size": 8397,
+        "diff": 8397
+      },
+      {
+        "filename": "polyfills.694cb.js",
+        "previous": 0,
+        "size": 2013,
+        "diff": 2013
+      },
+      {
+        "filename": "route-home/index.tsx.chunk.d60a2.js",
+        "previous": 0,
+        "size": 283,
+        "diff": 283
+      },
+      {
+        "filename": "route-notfound/index.tsx.chunk.287c0.js",
+        "previous": 0,
+        "size": 330,
+        "diff": 330
+      },
+      {
+        "filename": "route-profile/index.tsx.chunk.80bd0.js",
+        "previous": 0,
+        "size": 1095,
+        "diff": 1095
+      }
+    ]
+  },
+  {
+    "timestamp": 1597421411361,
+    "files": [
+      {
+        "filename": "ssr-bundle.d408c.css",
+        "previous": 0,
+        "size": 602,
+        "diff": 602
+      },
+      { "filename": "ssr-bundle.js", "previous": 0, "size": 4208, "diff": 4208 }
+    ]
+  }
+]
